@@ -1,7 +1,7 @@
 name: profile_view_2_lego
-description: "lego is all you need"
+description: "beautiful profile view 2 lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/profile_view_2_lego
 
 version: 1.0.0
 
